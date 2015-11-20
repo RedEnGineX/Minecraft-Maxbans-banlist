@@ -2,6 +2,7 @@
 
 ##BanList for maxbans plugin for Bukkit
 
+Requires [MaxBans](http://www.curse.com/bukkit-plugins/minecraft/maxbans) plugin!
 
 #Configuration
 
