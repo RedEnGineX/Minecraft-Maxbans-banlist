@@ -1,10 +1,12 @@
-bukkit-minecraft-maxbanslist
+#bukkit-minecraft-maxbanslist
 ============================
 
-BanList for maxbans plugin for Bukkit
-
-Created by TheJedras
+##BanList for maxbans plugin for Bukkit
 
 
+#Configuration
 
-You need to setup first DB in inc/db_settings.php
+
+Go to inc/db_settings.php
+In config setup database Maxbans is connected to
+You are ready to go!
