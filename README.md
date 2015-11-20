@@ -2,7 +2,7 @@
 
 ##BanList for maxbans plugin for Bukkit
 
-Requires [MaxBans](http://www.curse.com/bukkit-plugins/minecraft/maxbans) plugin, connected to database!
+Requires [MaxBans](http://www.curse.com/bukkit-plugins/minecraft/maxbans) plugin, it has to be connected to the database you set up in config.
 
 #Configuration
 
