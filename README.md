@@ -1,12 +1,8 @@
-#bukkit-minecraft-maxbanslist
-
-##BanList for maxbans plugin for Bukkit
-
-Requires [MaxBans](http://www.curse.com/bukkit-plugins/minecraft/maxbans) plugin, it has to be connected to the database you set up in config.
-
-#Configuration
+##Minecraft Maxbans List
+Shows warns, mutes, bans, tempbans etc. in a table. Requires connecting to maxbans database.
 
 
-Go to inc/db_settings.php
-In config setup database Maxbans is connected to
-You are ready to go!
+It Requires [MaxBans](http://www.curse.com/bukkit-plugins/minecraft/maxbans)
+installed on your minecraft server, and connected to database.
+
+Set database settings in inc/db_settings.php
